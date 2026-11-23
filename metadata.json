@@ -1,0 +1,6 @@
+{
+  "name": "INSTarank AI",
+  "description": "All-Creator Instagram SEO Studio powered by Gemini AI for universal creator optimization, Reels, Carousels, Profiles, Hashtags, and Competitor Strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
